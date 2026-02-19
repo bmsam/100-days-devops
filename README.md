@@ -12,3 +12,7 @@ To add an User with an Expiry date in Server 3.
 # Day 3 
 Disable Root Login access in all 3 servers. (i mentioned only 2 servers, can check by usernames)
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/2518fb1562176a8128ceda6cf71e3fd8b0ec5c35/day3.png)
+
+# Day 4 
+File permission task - to make a file executable
+![img=alt](https://github.com/bmsam/100-days-devops/blob/61a83dfdf565d7b36fc5c00a5196758ef8e60932/day4.png)
