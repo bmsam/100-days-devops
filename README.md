@@ -20,3 +20,7 @@ File permission task - to make a file executable
 # Day 5 
 Install SELinux packages and disable it in The initial stage.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/37489f7b7fe03e506747f77ce8e43f5439423cac/day5.png)
+
+# Day 6
+To Install Cronie package and enable Cron job as a root user in all servers.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/699d935a0dcaa6ce3caba12683918678a312e49f/day6.png)
