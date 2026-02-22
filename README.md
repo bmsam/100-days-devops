@@ -24,3 +24,7 @@ Install SELinux packages and disable it in The initial stage.
 # Day 6
 To Install Cronie package and enable Cron job as a root user in all servers.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/699d935a0dcaa6ce3caba12683918678a312e49f/day6.png)
+
+# Day 7
+To setup a Password-Less Authentication. So, i generated a Key and copied to all servers.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/9ab0fee05d301dd2ba82644d7f66c83be6ab3a16/day7.png)
