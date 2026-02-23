@@ -28,3 +28,7 @@ To Install Cronie package and enable Cron job as a root user in all servers.
 # Day 7
 To setup a Password-Less Authentication. So, i generated a Key and copied to all servers.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/9ab0fee05d301dd2ba82644d7f66c83be6ab3a16/day7.png)
+
+# Day 8
+Install ansible and make sure it is available globally in the system.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/32056b086a4fe8689139825629806e28244fbdc2/day8.png)
