@@ -32,3 +32,7 @@ To setup a Password-Less Authentication. So, i generated a Key and copied to all
 # Day 8
 Install ansible and make sure it is available globally in the system.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/32056b086a4fe8689139825629806e28244fbdc2/day8.png)
+
+# Day 9 
+To fix the issue of Maria DB service down
+![img=alt](https://github.com/bmsam/100-days-devops/blob/ba5f405c847323fdcc5a4f1860d18a64c151fe70/day9.png)
