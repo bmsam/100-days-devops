@@ -36,3 +36,7 @@ Install ansible and make sure it is available globally in the system.
 # Day 9 
 To fix the issue of Maria DB service down
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/ba5f405c847323fdcc5a4f1860d18a64c151fe70/day9.png)
+
+# Day 10
+Performing the task with bash script.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/82f88dce0a97b08b5ee0b1bd45fd4bb9e1ba918a/day10.png)
