@@ -44,3 +44,8 @@ Performing the task with bash script.
 # Day 11
 Install Tomcat server and Deploy a file on server using Port "5000"
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/f64b3c3ca049c2e3005854193b44f35e88959d21/day11.png)
+
+# Day 12
+Fix the issue of App server and revive it.
+
+![img=alt](https://github.com/bmsam/100-days-devops/blob/6dd990353c33419c4525f81803d11023ac11c638/day12.png)
