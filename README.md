@@ -40,3 +40,7 @@ To fix the issue of Maria DB service down
 # Day 10
 Performing the task with bash script.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/82f88dce0a97b08b5ee0b1bd45fd4bb9e1ba918a/day10.png)
+
+# Day 11
+Install Tomcat server and Deploy a file on server using Port "5000"
+![img=alt](https://github.com/bmsam/100-days-devops/blob/f64b3c3ca049c2e3005854193b44f35e88959d21/day11.png)
