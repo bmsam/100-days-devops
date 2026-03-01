@@ -49,3 +49,7 @@ Install Tomcat server and Deploy a file on server using Port "5000"
 Fix the issue of App server and revive it.
 
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/6dd990353c33419c4525f81803d11023ac11c638/day12.png)
+
+# Day 13
+Block Incoming port 6200 to everyone, except for Load Balancer Host 
+![img=alt](https://github.com/bmsam/100-days-devops/blob/69dd6d288ec44679952107ae3d101f613e060ac1/day13.png)
