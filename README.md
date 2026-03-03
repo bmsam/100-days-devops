@@ -53,3 +53,7 @@ Fix the issue of App server and revive it.
 # Day 13
 Block Incoming port 6200 to everyone, except for Load Balancer Host 
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/69dd6d288ec44679952107ae3d101f613e060ac1/day13.png)
+
+# Day 14
+Identify faulty app host and fix issue of Port 8088.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/8a786422cd21491c2ef62712d0451e74e3f3e380/day14.png)
