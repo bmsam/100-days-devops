@@ -59,5 +59,9 @@ Identify faulty app host and fix issue of Port 8088.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/8a786422cd21491c2ef62712d0451e74e3f3e380/day14.png)
 
 # Day 15
-Install and configure nginx
+Install and configure NGINX
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/e341e3ad39b5a9015b624a05a7d6d48322b23c2a/day15.png)
+
+# Day 16
+Install and configure NGINX as an HTTP Load Balancer
+![img=alt](https://github.com/bmsam/100-days-devops/blob/3b6e900fc212384afd199a5a4387970f578eb180/day16.png)
