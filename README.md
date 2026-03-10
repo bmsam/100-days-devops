@@ -65,3 +65,7 @@ Install and configure NGINX
 # Day 16
 Install and configure NGINX as an HTTP Load Balancer
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/3b6e900fc212384afd199a5a4387970f578eb180/day16.png)
+
+# Day 17
+Create an user with password and a database in a way that user should have full access to db.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/5717ade0a5cdfc7f0abf4a82432544ae2f9ee0ec/day17.png)
