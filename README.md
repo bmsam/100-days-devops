@@ -69,3 +69,7 @@ Install and configure NGINX as an HTTP Load Balancer
 # Day 17
 Create an user with password and a database in a way that user should have full access to db.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/5717ade0a5cdfc7f0abf4a82432544ae2f9ee0ec/day17.png)
+
+# Day 18
+Install and configure Maria DB on Database Server.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/4b66471cf65549f1f59c6240d02dd1c098253bb6/day18.png)
