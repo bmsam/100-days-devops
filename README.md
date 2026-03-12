@@ -73,3 +73,7 @@ Create an user with password and a database in a way that user should have full 
 # Day 18
 Install and configure Maria DB on Database Server.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/4b66471cf65549f1f59c6240d02dd1c098253bb6/day18.png)
+
+# Day 19
+Install and Configure Web Application.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/dc2dbd6ec95a64d8924b238ba1a9f972ebe33e18/day19.png)
