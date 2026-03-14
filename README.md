@@ -77,3 +77,7 @@ Install and configure Maria DB on Database Server.
 # Day 19
 Install and Configure Web Application.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/dc2dbd6ec95a64d8924b238ba1a9f972ebe33e18/day19.png)
+
+# Day 20
+Install nginx and php-fpm and configure both of them to work together.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/f9b53bfaa2fa2cf6d6f5a488a76fd2b3f448a9ff/day20.png)
