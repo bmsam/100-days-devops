@@ -86,3 +86,6 @@ Install nginx and php-fpm and configure both of them to work together.
 Install Git and create a bare repository.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/9ed14a4d3c323e879ed066f64f9c4f7803e13d27/day21.png)
 
+# Day 22
+Clone a Git repository in specific path.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/7093b656f1c656fb466eddad8ce21eb2421a815c/day22.png)
