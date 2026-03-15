@@ -84,5 +84,5 @@ Install nginx and php-fpm and configure both of them to work together.
 
 # Day 21
 Install Git and create a bare repository.
-![img=alt](https://github.com/bmsam/100-days-devops/blob/dc2dbd6ec95a64d8924b238ba1a9f972ebe33e18/day19.png)
+![img=alt](https://github.com/bmsam/100-days-devops/blob/9ed14a4d3c323e879ed066f64f9c4f7803e13d27/day21.png)
 
