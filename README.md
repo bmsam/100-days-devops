@@ -81,3 +81,8 @@ Install and Configure Web Application.
 # Day 20
 Install nginx and php-fpm and configure both of them to work together.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/f9b53bfaa2fa2cf6d6f5a488a76fd2b3f448a9ff/day20.png)
+
+# Day 21
+Install Git and create a bare repository.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/dc2dbd6ec95a64d8924b238ba1a9f972ebe33e18/day19.png)
+
