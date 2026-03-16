@@ -89,3 +89,7 @@ Install Git and create a bare repository.
 # Day 22
 Clone a Git repository in specific path.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/7093b656f1c656fb466eddad8ce21eb2421a815c/day22.png)
+
+# Day 23
+Fork a Git repository from UI.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/f733527c6dfe5725c4ebca69e33a59803c43a849/day23.png)
