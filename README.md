@@ -93,3 +93,7 @@ Clone a Git repository in specific path.
 # Day 23
 Fork a Git repository from UI.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/f733527c6dfe5725c4ebca69e33a59803c43a849/day23.png)
+
+# Day 24
+Create a new branch via CLI.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/f5fe8cc18a9d90045865ae82ab1cedc7927e2b32/day24.png)
