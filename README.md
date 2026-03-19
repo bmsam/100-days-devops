@@ -97,3 +97,8 @@ Fork a Git repository from UI.
 # Day 24
 Create a new branch via CLI.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/f5fe8cc18a9d90045865ae82ab1cedc7927e2b32/day24.png)
+
+# Day 25
+Create a new branch, Merge it to master and Push both to origin.
+![img=alt](https://github.com/bmsam/100-days-devops/blob/078f946a536191f76997b81a2a02f21ccf6b5958/day25.png)
+
