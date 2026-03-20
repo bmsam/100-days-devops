@@ -102,3 +102,7 @@ Create a new branch via CLI.
 Create a new branch, Merge it to master and Push both to origin.
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/078f946a536191f76997b81a2a02f21ccf6b5958/day25.png)
 
+# Day 26
+Git Manage Remotes
+![img=alt](https://github.com/bmsam/100-days-devops/blob/f7690f7af57c773a8b86b806a1584c7de8e8868e/day26.png)
+
