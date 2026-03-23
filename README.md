@@ -106,3 +106,7 @@ Create a new branch, Merge it to master and Push both to origin.
 Git Manage Remotes
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/f7690f7af57c773a8b86b806a1584c7de8e8868e/day26.png)
 
+# Day 27
+ Git Revert Some Changes
+![img=alt](https://github.com/bmsam/100-days-devops/blob/3e257242dae08370ee04f2c8d4940232fe9700a2/day27.png)
+
