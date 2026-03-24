@@ -110,3 +110,9 @@ Git Manage Remotes
  Git Revert Some Changes
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/3e257242dae08370ee04f2c8d4940232fe9700a2/day27.png)
 
+# Day 28
+ Git Cherry Pick
+![img=alt](https://github.com/bmsam/100-days-devops/blob/a7a31bd038e35ec4f95d07b933889a4d841c9ca2/day28.png)
+
+
+
