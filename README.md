@@ -114,5 +114,9 @@ Git Manage Remotes
  Git Cherry Pick
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/a7a31bd038e35ec4f95d07b933889a4d841c9ca2/day28.png)
 
+# Day 29
+Manage Git Pull Requests
+![img=alt](https://github.com/bmsam/100-days-devops/blob/299c0cfae12d5e106197fba8b1d183dde2a10239/day29.png)
+
 
 
