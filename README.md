@@ -118,5 +118,8 @@ Git Manage Remotes
 Manage Git Pull Requests
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/299c0cfae12d5e106197fba8b1d183dde2a10239/day29.png)
 
+# Day 30
+Git Hard reset 
+![img=alt](https://github.com/bmsam/100-days-devops/blob/5f00b3205609af63b0e9027a8aa76076ec36734c/day30.png)
 
 
