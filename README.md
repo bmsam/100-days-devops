@@ -122,4 +122,7 @@ Manage Git Pull Requests
 Git Hard reset 
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/5f00b3205609af63b0e9027a8aa76076ec36734c/day30.png)
 
+# Day 31
+Git Stash Restore 
+![img=alt](https://github.com/bmsam/100-days-devops/blob/97bda62adfe9dcb8fad618a08b86fe29905ba9ce/day31.png)
 
