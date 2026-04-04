@@ -130,3 +130,6 @@ Git Stash Restore
 Git Rebase
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/84b1b62f5c6baf4d92b6c75c3d7006a7edad7cb1/day32.png)
 
+# Day 33
+Resolve Git Merge Conflicts
+![img=alt](https://github.com/bmsam/100-days-devops/blob/d36c91f8e1cc1e2be9372d9da48723f694eb5419/day33.png)
