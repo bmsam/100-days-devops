@@ -133,3 +133,7 @@ Git Rebase
 # Day 33
 Resolve Git Merge Conflicts
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/d36c91f8e1cc1e2be9372d9da48723f694eb5419/day33.png)
+
+# Day 34
+Git Hook
+![img=alt](https://github.com/bmsam/100-days-devops/blob/75fabb94ad1d188917fbb0218b4d3bf8b7009a0a/day34.png)
