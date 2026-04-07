@@ -137,3 +137,8 @@ Resolve Git Merge Conflicts
 # Day 34
 Git Hook
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/75fabb94ad1d188917fbb0218b4d3bf8b7009a0a/day34.png)
+
+# Day 35
+Install Docker Packages and Start Docker Service
+Reference Docs link : https://docs.docker.com/engine/install/centos/
+![img=alt](https://github.com/bmsam/100-days-devops/blob/9b0af9ec552da353d9342de20ccc2d4bbd658187/day35.png)
