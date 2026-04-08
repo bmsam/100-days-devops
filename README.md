@@ -142,3 +142,7 @@ Git Hook
 Install Docker Packages and Start Docker Service
 Reference Docs link : https://docs.docker.com/engine/install/centos/
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/9b0af9ec552da353d9342de20ccc2d4bbd658187/day35.png)
+
+# Day 36
+Deploy Nginx Container on Application Server
+![img=alt](https://github.com/bmsam/100-days-devops/blob/2d813fa67fd934d13786c82f5cdc1b229384a1b9/day36.png)
