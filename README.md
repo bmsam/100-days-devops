@@ -1,4 +1,4 @@
-# Intro to 100-days-devops
+# Intro to 100-days-devops (Stopped at 36)
 In this repo, i post my daily tasks as part of 100 days of DevOps challenge.
 
 # Day 1
