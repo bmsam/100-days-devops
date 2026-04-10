@@ -146,3 +146,9 @@ Reference Docs link : https://docs.docker.com/engine/install/centos/
 # Day 36
 Deploy Nginx Container on Application Server
 ![img=alt](https://github.com/bmsam/100-days-devops/blob/2d813fa67fd934d13786c82f5cdc1b229384a1b9/day36.png)
+
+**UPDATE : I Realized that devops as fresher to enter in IT in very few in numbers. On top of that in present market no company is shwoing interest in hiring devops eng as fresher/intern. Some companies exist but requires 10 yrs of expereince (Exaggerating -YES)**
+
+**So, decided to focus in this role later after entering IT. As of now planning to enter market as a MERN Stack developer**
+
+**Hope, I can crack it even if things go against or with me**
